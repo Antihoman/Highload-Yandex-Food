@@ -304,7 +304,7 @@ id: 16 байт (UUID);
 * Новосибирск
 * Благовещанск
 
-[//]: # (![]&#40;./img/Population_dencity.png&#41;)
+![Population_dencity](https://github.com/Antihoman/Highload-Yandex-Food/assets/91897029/28effa2c-4b65-4f91-a60e-913a96dc6daa)
 
 ### Глобальная балансировка 
 
