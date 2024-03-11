@@ -300,7 +300,7 @@ id: 16 байт (UUID);
 * Казань
 * Волгоград
 
-![Population_dencity](https://github.com/Antihoman/Highload-Yandex-Food/assets/91897029/28effa2c-4b65-4f91-a60e-913a96dc6daa)
+![Population_dencity](https://github.com/Antihoman/Highload-Yandex-Food/assets/91897029/a62af400-440d-4678-b9b6-0080b773b4b5)
 
 ### Глобальная балансировка 
 
