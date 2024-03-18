@@ -339,7 +339,7 @@ keepalived с использованием протокола VRRP. Это по�
 
 ## 5. Логическая схема БД <a name="5"></a>
 
-![image](https://github.com/Antihoman/Highload-Yandex-Food/assets/91897029/646b3b87-08ae-47f9-ab35-9d37d34de06d)
+![image](https://github.com/Antihoman/Highload-Yandex-Food/assets/91897029/a0d6b131-5496-426e-8ef6-ea917799a2e4)
 
 ### Размер данных
 
