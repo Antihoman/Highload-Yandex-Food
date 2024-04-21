@@ -401,9 +401,9 @@ MergeTree, что позволяет с высокой производител�
 
 `review`: hash по review_id
 
-`favorite_dish`: hash по favorite_id, hash по (user_id, dish_id)
+`favorite_dish`: hash по favorite_id
 
-`favorite_restaurant`: hash по favorite_id, hash по (user_id, restaurant_id)
+`favorite_restaurant`: hash по favorite_id
 
 ### Шардинг
 
