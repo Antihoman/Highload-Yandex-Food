@@ -560,7 +560,7 @@ TypeScript поддерживает модульность, что позвол�
 
 ## 9. Схема проекта <a name="9"></a>
 
-![image](https://github.com/Antihoman/Highload-Yandex-Food/assets/91897029/f4b9222a-48c0-406a-b2e4-4f7939d8571d)
+![image](https://github.com/Antihoman/Highload-Yandex-Food/assets/91897029/0af08c7c-fd4b-47d4-9393-8d63f6944a3f)
 
 ---
 
